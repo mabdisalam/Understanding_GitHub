@@ -8,3 +8,5 @@ history of the project can be viewed.
 After you create a repository, similar to folder that will hold all files of a project.
 You will have the master branch and you will be able to create other branches.
 Different people would be able to work on different aspects of the project. 
+
+GitHub is build on top of Git.
