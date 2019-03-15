@@ -10,3 +10,10 @@ You will have the master branch and you will be able to create other branches.
 Different people would be able to work on different aspects of the project. 
 
 GitHub is build on top of Git.
+GitHub is for collaboration and git is helping to track changes.
+With GitHub you can raise issues around a project for collaboration or identifying bugs.
+For collaboration you can use a pull request then if everyone is happy make a merge request.
+
+GitHub is open source and promote open source contribution.
+Some examples are Fredhutch/Oncoscope and Microsoft/vscode whereas you can contribute to various projects.
+
